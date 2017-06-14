@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM 8u111-jdk-alpine
 MAINTAINER Allen Mo<allen.mo@yeahmobi.com> 
 
 RUN mkdir /app
