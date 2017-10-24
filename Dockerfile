@@ -1,4 +1,4 @@
-FROM java:8u111-jdk-alpine
+FROM xa.repo.ndp.com:5000/ec-network/jdk:1.8.0_131
 MAINTAINER Allen Mo<allen.mo@yeahmobi.com> 
 
 RUN mkdir /app
